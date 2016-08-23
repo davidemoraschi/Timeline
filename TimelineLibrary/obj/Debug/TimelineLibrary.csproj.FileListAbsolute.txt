@@ -1,0 +1,61 @@
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\TimelineLibrary.dll
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\TimelineLibrary.pdb
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\System.Windows.Controls.dll
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\System.Xml.Linq.dll
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\System.Xml.Linq.xml
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\System.Windows.Controls.xml
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\de\System.Xml.Linq.resources.dll
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\es\System.Xml.Linq.resources.dll
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\fr\System.Xml.Linq.resources.dll
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\it\System.Xml.Linq.resources.dll
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\ja\System.Xml.Linq.resources.dll
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\ko\System.Xml.Linq.resources.dll
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Local\Timeline\TimelineLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Local\Timeline\TimelineLibrary\obj\Debug\Dialogs\EventDetailsWindow.g.cs
+C:\Local\Timeline\TimelineLibrary\obj\Debug\TimelineLibrary.g.resources
+C:\Local\Timeline\TimelineLibrary\obj\Debug\TimelineLibrary.Resource.resources
+C:\Local\Timeline\TimelineLibrary\obj\Debug\TimelineLibrary.csproj.GenerateResource.Cache
+C:\Local\Timeline\TimelineLibrary\obj\Debug\TimelineLibrary.dll
+C:\Local\Timeline\TimelineLibrary\obj\Debug\TimelineLibrary.pdb
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\System.Windows.Interactivity.dll
+C:\Local\Timeline\TimelineLibrary\Bin\Debug\System.Windows.Interactivity.xml
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\TimelineLibrary.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\TimelineLibrary.pdb
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\System.Windows.Controls.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\System.Xml.Linq.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\System.Windows.Interactivity.xml
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\System.Xml.Linq.xml
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\System.Windows.Controls.xml
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\de\System.Xml.Linq.resources.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\es\System.Xml.Linq.resources.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\fr\System.Xml.Linq.resources.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\it\System.Xml.Linq.resources.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\ja\System.Xml.Linq.resources.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\ko\System.Xml.Linq.resources.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\de\System.Windows.Controls.resources.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\es\System.Windows.Controls.resources.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\fr\System.Windows.Controls.resources.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\it\System.Windows.Controls.resources.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\ja\System.Windows.Controls.resources.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\ko\System.Windows.Controls.resources.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\obj\Debug\ResolveAssemblyReference.cache
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\obj\Debug\Dialogs\EventDetailsWindow.g.cs
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\obj\Debug\TimelineLibrary.g.resources
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\obj\Debug\TimelineLibrary.Resource.resources
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\obj\Debug\TimelineLibrary.csproj.GenerateResource.Cache
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\obj\Debug\TimelineLibrary.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineLibrary\obj\Debug\TimelineLibrary.pdb

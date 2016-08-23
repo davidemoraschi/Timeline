@@ -1,0 +1,12 @@
+C:\Local\Timeline\TimelineSL.Web\bin\Monet.xml
+C:\Local\Timeline\TimelineSL.Web\bin\TimelineSL.Web.dll
+C:\Local\Timeline\TimelineSL.Web\bin\TimelineSL.Web.pdb
+C:\Local\Timeline\TimelineSL.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Local\Timeline\TimelineSL.Web\obj\Debug\TimelineSL.Web.dll
+C:\Local\Timeline\TimelineSL.Web\obj\Debug\TimelineSL.Web.pdb
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineSL.Web\bin\Monet.xml
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineSL.Web\bin\TimelineSL.Web.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineSL.Web\bin\TimelineSL.Web.pdb
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineSL.Web\obj\Debug\ResolveAssemblyReference.cache
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineSL.Web\obj\Debug\TimelineSL.Web.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\TimelineSL.Web\obj\Debug\TimelineSL.Web.pdb

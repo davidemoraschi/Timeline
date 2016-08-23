@@ -1,0 +1,14 @@
+C:\Local\Timeline\Timeline.Web\bin\jfk.xml
+C:\Local\Timeline\Timeline.Web\bin\Monet.xml
+C:\Local\Timeline\Timeline.Web\bin\Timeline.Web.dll
+C:\Local\Timeline\Timeline.Web\bin\Timeline.Web.pdb
+C:\Local\Timeline\Timeline.Web\obj\Release\ResolveAssemblyReference.cache
+C:\Local\Timeline\Timeline.Web\obj\Release\Timeline.Web.dll
+C:\Local\Timeline\Timeline.Web\obj\Release\Timeline.Web.pdb
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\Timeline.Web\bin\jfk.xml
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\Timeline.Web\bin\Monet.xml
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\Timeline.Web\bin\Timeline.Web.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\Timeline.Web\bin\Timeline.Web.pdb
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\Timeline.Web\obj\Release\ResolveAssemblyReference.cache
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\Timeline.Web\obj\Release\Timeline.Web.dll
+I:\My DropBox\Visual Studio 2008\Projects\Timeline\Timeline.Web\obj\Release\Timeline.Web.pdb

@@ -1,0 +1,6 @@
+C:\Local\Timeline\TimelineSL.Web\bin\Monet.xml
+C:\Local\Timeline\TimelineSL.Web\bin\TimelineSL.Web.dll
+C:\Local\Timeline\TimelineSL.Web\bin\TimelineSL.Web.pdb
+C:\Local\Timeline\TimelineSL.Web\obj\Release\ResolveAssemblyReference.cache
+C:\Local\Timeline\TimelineSL.Web\obj\Release\TimelineSL.Web.dll
+C:\Local\Timeline\TimelineSL.Web\obj\Release\TimelineSL.Web.pdb

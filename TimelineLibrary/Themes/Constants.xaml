@@ -1,0 +1,69 @@
+﻿<!--
+ *   Copyright 2009 Andrew Syrov<asyrovprog@live.com>
+ *
+ *   This program is free software; you can redistribute it and/or modify
+ *   it under the terms of the GNU Library General Public License as
+ *   published by the Free Software Foundation; either version 2 or
+ *   (at your option) any later version.
+ *
+ *   This program is distributed in the hope that it will be useful,
+ *   but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *   GNU General Public License for more details
+ *
+ *   You should have received a copy of the GNU Library General Public
+ *   License along with this program; if not, write to the
+ *   Free Software Foundation, Inc.,
+ *   51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+ -->
+
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:s="clr-namespace:System;assembly=mscorlib"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- Tooltip resources -->
+
+    <SolidColorBrush
+        x:Key="EventTooltipBackground">#FF2D2D2D</SolidColorBrush>
+
+    <SolidColorBrush
+        x:Key="EventTooltipTitleForeground">White</SolidColorBrush>
+    
+    <SolidColorBrush
+        x:Key="EventTooltipDescriptionForeground">Silver</SolidColorBrush>
+    
+    <s:Int32
+        x:Key="TooltipTimeout">60</s:Int32>
+
+    <SolidColorBrush
+        x:Key="BandEventTitleForeground">White</SolidColorBrush>
+
+    <SolidColorBrush
+        x:Key="BandTeaserForeground">Silver</SolidColorBrush>
+
+    <SolidColorBrush
+        x:Key="ItemBackground">#FF2F2F2F</SolidColorBrush>
+
+    <SolidColorBrush
+        x:Key="ItemForeground">White</SolidColorBrush>
+
+    <SolidColorBrush
+        x:Key="ItemLineBrush">#FF444444</SolidColorBrush>
+
+    <SolidColorBrush
+        x:Key="BandVisibleWindowBackground">#5B595959</SolidColorBrush>
+
+    <SolidColorBrush
+        x:Key="NavigateButtonNormalBackground">#FF444444</SolidColorBrush>
+
+    <SolidColorBrush
+        x:Key="NavigateButtonMouseOverBackground">#FFBDBDBD</SolidColorBrush>
+
+    <SolidColorBrush
+        x:Key="NavigateButtonBaseBackground">#FF7A7A7A</SolidColorBrush>
+
+    <SolidColorBrush
+        x:Key="NavigateButtonBaseStroke">#FFBDBDBD</SolidColorBrush>
+
+</ResourceDictionary>
